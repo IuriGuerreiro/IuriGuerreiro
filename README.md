@@ -9,10 +9,6 @@
 
 - ⚡ Fun fact **I like all types of tech**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 
 <h5 align="left">Web :</h3>
